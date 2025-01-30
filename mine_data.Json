@@ -1,0 +1,15 @@
+{
+  "navn": {
+    "fornavn": "Sofie",
+    "efternavn": "Præstmark"
+  },
+  "alder": 25,
+  "studerende": true,
+  "interesser": ["styrketræning", "Pilates", "kost", "beauty", "mode"],
+  "adresse": {
+    "vejnavn": "Amager Strandvej",
+    "by": "København S",
+    "postnummer": 2300
+  },
+  "fødselsdag": "1999-12-25"
+}
